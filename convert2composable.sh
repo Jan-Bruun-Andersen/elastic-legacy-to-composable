@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # Script to convert legacy templates into the new composable template format.
 # Actually, they only have one component - themselves, but have the new format
